@@ -1,0 +1,17 @@
+{
+	"name": "@zeroplay/gamekit-create-game",
+	"version": "1.0.0",
+	"description": "Create GameKit games with one command",
+	"bin": {
+		"gamekit-create-game": "./bin/gamekit-create-game"
+	},
+	"main": "src/index.js",
+	"files": [
+		"bin",
+		"src",
+		"templates"
+	],
+	"keywords": [],
+	"author": "zeroplay",
+	"license": "ISC"
+}
